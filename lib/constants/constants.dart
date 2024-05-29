@@ -1,0 +1,2 @@
+String kTemplate = 'template';
+
